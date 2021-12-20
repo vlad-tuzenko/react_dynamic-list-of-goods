@@ -1,0 +1,2 @@
+*{box-sizing:border-box}li,ul{margin:0;padding:0}.App__content{padding:20px}.GoodsList{display:flex;flex-direction:column;list-style:none}.GoodsList__item{padding:20px;width:120px;margin-bottom:10px;border:1px solid;text-align:center;font-weight:700}.GoodsList__item--red{background-color:red}.GoodsList__item--green{background-color:green}.GoodsList__item--blue{background-color:#00f}
+/*# sourceMappingURL=main.6ff20592.chunk.css.map */
